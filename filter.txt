@@ -1,0 +1,6 @@
+cvsnet.co.kr##.mainPop
+cvsnet.co.kr##.dimdBg
+compuzone.co.kr###wrap > div.dimmed:nth-child(40)
+compuzone.co.kr###wrap > div.layer_popup.holiday_noti_pop:nth-child(42)
+ko.aliexpress.com##div:last-child > div.image-poplayer-modal
+ko.aliexpress.com##div:nth-child(26)
