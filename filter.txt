@@ -1,0 +1,4 @@
+cvsnet.co.kr##.mainPop
+cvsnet.co.kr##.dimdBg
+ko.aliexpress.com##.image-poplayer-modal
+ko.aliexpress.com##div:nth-child(25) > div._3KrBP
