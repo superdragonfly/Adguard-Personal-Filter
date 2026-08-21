@@ -1,4 +1,4 @@
-# 🛡️ AdGuard Personal Filter (AdGuard 개인 필터 동기화 저장소)
+# 🛡️ AdGuard Personal Filter
 
 여러 기기(PC, 모바일, 태블릿 등)에서 사용하는 **AdGuard 사용자 필터를 하나로 통합하고 자동으로 동기화**하기 위한 개인 저장소입니다.
 
